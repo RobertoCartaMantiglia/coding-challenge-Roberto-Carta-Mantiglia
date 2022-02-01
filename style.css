@@ -1,0 +1,46 @@
+*{
+  margin: auto;
+  padding: 5px;
+}
+
+body{
+  background-image: url('background.jpg');
+}
+
+.container{
+  font-family: 'Dongle', sans-serif;
+  width: 1000px;
+  margin: auto
+  border-radius: 50%;
+}
+
+header, .options{
+  text-align: center;
+}
+
+img{
+  width: 200px;
+}
+
+#slogan{
+  color: lime;
+}
+
+.options{
+  background-color: lime;
+}
+
+.monopattini{
+  color: white;
+}
+
+/* valori carica monopattini */
+.stato-carica1{
+  background-color: lightgreen;
+}
+.stato-carica2{
+  background-color: red;
+}
+.stato-carica3{
+  background-color: orange;
+}
